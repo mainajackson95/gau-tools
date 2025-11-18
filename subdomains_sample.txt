@@ -1,0 +1,14 @@
+# Sample subdomains file
+# Replace these with your actual target subdomains from Subfinder, Amass, etc.
+
+# Example format:
+# www.example.com
+# api.example.com
+# admin.example.com
+# test.example.com
+# staging.example.com
+# dev.example.com
+# internal.example.com
+# backup.example.com
+# old.example.com
+# legacy.example.com
